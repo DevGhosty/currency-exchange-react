@@ -1,0 +1,26 @@
+body {
+  max-width: 580px;
+  margin: 32px auto;
+  padding: 0 16px;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+input, select, button {
+  display: block;
+  font: inherit;
+  max-width: 100%;
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+a {
+  color: #333;
+}
